@@ -6,28 +6,23 @@ Welcome to the Multidex Project! My goal here is to collect reference data for f
 
 ## Generation I
 
-Pokémon - Kanto Expansion Pak
-* [GitHub](https://github.com/PlagueVonKarma/kep-hack)
-* [PokéCommunity](https://www.pokecommunity.com/threads/kanto-expansion-pak.525646/)
+### Kanto Expansion Pak
+* [GitHub](https://github.com/PlagueVonKarma/kep-hack) | [PokéCommunity](https://www.pokecommunity.com/threads/kanto-expansion-pak.525646/)
 * [Pokédex](/pokedex/kanto-expansion-pak.pokedex.md)
 * [TM/HM Index](/tm-index/kanto-expansion-pak.tmindex.md)
 
-Pokémon - Red DX & Blue DX
-* [GitHub](https://github.com/TheScarletSword/pokereddeluxe)
-* [PokéCommunity](https://www.pokecommunity.com/threads/pokemon-red-and-blue-deluxe.360339/)
+### Red DX & Blue DX
+* [GitHub](https://github.com/TheScarletSword/pokereddeluxe) | [PokéCommunity](https://www.pokecommunity.com/threads/pokemon-red-and-blue-deluxe.360339/)
 * [Pokédex](/pokedex/red-blue-dx.pokedex.md)
 * [TM/HM Index](/tm-index/red-blue-dx.tmindex.md)
 
-Pokémon - Shin Red, Shin Blue, and Shin Green
-* [GitHub](https://github.com/jojobear13/shinpokered)
-* [PokéCommunity](https://www.pokecommunity.com/threads/shin-pokemon-red-blue-green-jp-builds-bugfix-ai-and-qol-patch.427398/)
+### Shin Red, Shin Blue, and Shin Green
+* [GitHub](https://github.com/jojobear13/shinpokered) | [PokéCommunity](https://www.pokecommunity.com/threads/shin-pokemon-red-blue-green-jp-builds-bugfix-ai-and-qol-patch.427398/)
 
 ## Generation II
 
-Pokémon - Polished Crystal Version
-* [GitHub](https://github.com/Rangi42/polishedcrystal)
-* [PokéCommunity](https://www.pokecommunity.com/threads/pok%C3%A9mon-polished-crystal-update-3-1-1.373172/)
+### Polished Crystal Version
+* [GitHub](https://github.com/Rangi42/polishedcrystal) | [PokéCommunity](https://www.pokecommunity.com/threads/pok%C3%A9mon-polished-crystal-update-3-1-1.373172/)
 
-Pokémon - Sour Crystal Version
-* [GitHub](https://github.com/SoupPotato/Sourcrystal)
-* [PokéCommunity](https://www.pokecommunity.com/threads/pokemon-sour-crystal-improvement-hack.434361/)
+### Sour Crystal Version
+* [GitHub](https://github.com/SoupPotato/Sourcrystal) | [PokéCommunity](https://www.pokecommunity.com/threads/pokemon-sour-crystal-improvement-hack.434361/)
