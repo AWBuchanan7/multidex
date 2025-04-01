@@ -9,12 +9,13 @@ Welcome to the Multidex Project! My goal here is to collect reference data for f
 ### Kanto Expansion Pak
 * [GitHub](https://github.com/PlagueVonKarma/kep-hack) | [PokéCommunity](https://www.pokecommunity.com/threads/kanto-expansion-pak.525646/)
 * [Pokédex](/pokedex/kanto-expansion-pak.pokedex.md)
-* [TM/HM Index](/tm-index/kanto-expansion-pak.tmindex.md)
+* [TM/HM Index](kanto-expansion-pak.tmindex.md)
+* [Type Chart](kanto-expansion-pak.typechart.md)
 
 ### Red DX & Blue DX
 * [GitHub](https://github.com/TheScarletSword/pokereddeluxe) | [PokéCommunity](https://www.pokecommunity.com/threads/pokemon-red-and-blue-deluxe.360339/)
 * [Pokédex](/pokedex/red-blue-dx.pokedex.md)
-* [TM/HM Index](/tm-index/red-blue-dx.tmindex.md)
+* [TM/HM Index](red-blue-dx.tmindex.md)
 
 ### Shin Red, Shin Blue, and Shin Green
 * [GitHub](https://github.com/jojobear13/shinpokered) | [PokéCommunity](https://www.pokecommunity.com/threads/shin-pokemon-red-blue-green-jp-builds-bugfix-ai-and-qol-patch.427398/)
