@@ -15,7 +15,7 @@
 | TM11 | Bubblebeam    | Water    | Cerulean City Gym (Defeat Misty)                  |
 | TM12 | Water Gun     | Water    | Mt. Moon                                          |
 | TM13 | Ice Beam      | Ice      | Celadon City (from Department Store roof girl)    |
-| TM14 | Blizzard      | Ice      | Pokemon Mansion                                   |
+| TM14 | Blizzard      | Ice      | Pokémon Mansion                                   |
 | TM15 | Hyper Beam    | Normal   | Celadon City Game Corner (Prize)                  |
 | TM16 | Pay Day       | Normal   | Route 12                                          |
 | TM17 | Submission    | Fighting | Victory Road, Celadon City Deparment Store        |
@@ -23,7 +23,7 @@
 | TM19 | Seismic Toss  | Fighting | Route 25                                          |
 | TM20 | Rage          | Normal   | Route 15                                          |
 | TM21 | Mega Drain    | Grass    | Celadon City Gym (Defeat Erika)                   |
-| TM22 | Solar Beam    | Grass    | Pokemon Mansion                                   |
+| TM22 | Solar Beam    | Grass    | Pokémon Mansion                                   |
 | TM23 | Dragon Rage   | Dragon   | Celadon City Game Corner (Prize)                  |
 | TM24 | Thunderbolt   | Electric | Vermillion City Gym (Defeat Lt. Surge)            |
 | TM25 | Thunder       | Electric | Power Plant                                       |
@@ -36,7 +36,7 @@
 | TM32 | Double Team   | Normal   | Fuchsia City, Celadon City Department Store       |
 | TM33 | Reflect       | Psychic  | Power Plant, Celadon City Department Store        |
 | TM34 | Bide          | Normal   | Pewter City Gym (Defeat Brock)                    |
-| TM35 | Metronome     | Normal   | Cinnabar Island Pokemon Lab                       |
+| TM35 | Metronome     | Normal   | Cinnabar Island Pokémon Lab                       |
 | TM36 | Self-Destruct | Normal   | Silph Co.                                         |
 | TM37 | Egg Bomb      | Normal   | Fuchsia City, Celadon City Department Store       |
 | TM38 | Fire Blast    | Fire     | Cinnabar Island Gym (Defeat Blaine)               |
