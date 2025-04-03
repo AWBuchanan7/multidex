@@ -7,9 +7,12 @@ Welcome to the Multidex Project! My goal here is to collect reference data for f
 
 ## Generation I
 
-## Pokemon Red & Blue
+### Pokémon Red & Blue
 * [Pokedex](/pokedex/red-blue.pokedex.md)
 * [TM/HM Index](/tmindex/red-blue.tmindex)
+
+### Pokémon Yellow
+* WIP
 
 ### Kanto Expansion Pak
 * [GitHub](https://github.com/PlagueVonKarma/kep-hack) | [PokéCommunity](https://www.pokecommunity.com/threads/kanto-expansion-pak.525646/)
@@ -26,6 +29,12 @@ Welcome to the Multidex Project! My goal here is to collect reference data for f
 * [GitHub](https://github.com/jojobear13/shinpokered) | [PokéCommunity](https://www.pokecommunity.com/threads/shin-pokemon-red-blue-green-jp-builds-bugfix-ai-and-qol-patch.427398/)
 
 ## Generation II
+
+### Pokémon Gold & Silver
+* WIP
+
+### Pokémon Crystal
+* WIP
 
 ### Polished Crystal Version
 * [GitHub](https://github.com/Rangi42/polishedcrystal) | [PokéCommunity](https://www.pokecommunity.com/threads/pok%C3%A9mon-polished-crystal-update-3-1-1.373172/)
