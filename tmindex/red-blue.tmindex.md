@@ -32,7 +32,7 @@
 | TM28 | Dig           | Ground   | Cerulean City                                     |
 | TM29 | Psychic       | Psychic  | Saffron City (Mr. Psychic's House)                |
 | TM30 | Teleport      | Psychic  | Route 9                                           |
-| TM31 | Mimic         | Normal   | Saffron City                                      |
+| TM31 | Mimic         | Normal   | Saffron City (Copycat's House)                    |
 | TM32 | Double Team   | Normal   | Fuchsia City, Celadon City Department Store       |
 | TM33 | Reflect       | Psychic  | Power Plant, Celadon City Department Store        |
 | TM34 | Bide          | Normal   | Pewter City Gym (Defeat Brock)                    |
