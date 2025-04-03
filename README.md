@@ -1,14 +1,17 @@
-Welcome to the Multidex Project! My goal here is to collect reference data for first and second generation Pokémon ROM hacks in a simple MarkDown format.
+Welcome to the Multidex Project! My goal here is to collate reference information for first and second generation Pokémon ROM hacks in a simple MarkDown format.
 
-* This repository is formatted for use with [Obsidian](https://obsidian.md/), just download the repository and open it with Obsidian and you'll have a comprehensive, local Pokémon ROM hack reference!
-* Within the `/pokedex/` directory you'll find complete references with data on each Pokémon available, its Pokédex number, learnset, and where that Pokémon can be found.
+This repository is formatted for compatibility with [Obsidian](https://obsidian.md/), just download this repository and open it with Obsidian and you'll have a comprehensive, local Pokémon ROM hack guide! Of course, you can also browse these files online here on GitHub.
+
+## Overview of the Multidex
+
+* Within the `/pokedex/` directory you'll find references with data on the Pokémon available in each game including their Pokédex number, learnset, and where that Pokémon can be found.
 * In the `/tm-index/` directory you can find references for the technical machine (TM) and hidden machine (HM) items available in each game, which moves these machines teach, and where they can be found.
 * In the `/typechart/` directory you'll find charts documenting type effectiveness in each game.
 
 ## Generation I
 
 ### Pokémon Red & Blue
-* [Pokedex](/pokedex/red-blue.pokedex.md)
+* [Pokédex](/pokedex/red-blue.pokedex.md)
 * [TM/HM Index](/tmindex/red-blue.tmindex.md)
 
 ### Pokémon Yellow
