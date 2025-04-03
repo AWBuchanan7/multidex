@@ -9,7 +9,7 @@ Welcome to the Multidex Project! My goal here is to collect reference data for f
 
 ### Pokémon Red & Blue
 * [Pokedex](/pokedex/red-blue.pokedex.md)
-* [TM/HM Index](/tmindex/red-blue.tmindex)
+* [TM/HM Index](/tmindex/red-blue.tmindex.md)
 
 ### Pokémon Yellow
 * WIP
