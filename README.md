@@ -2,7 +2,7 @@ Welcome to the Multidex Project! My goal here is to collect reference data for f
 
 * This repository is formatted for use with [Obsidian](https://obsidian.md/), just download the repository and open it with Obsidian and you'll have a comprehensive, local Pokémon ROM hack reference!
 * Within the `/pokedex/` directory you'll find complete references with data on each Pokémon available, its Pokédex number, learnset, and where that Pokémon can be found.
-* In the `/tm-index/` directory you can find references for the technical machine (TM) and hidden machine (HM) items available, which moves these machines teach and where they can be found.
+* In the `/tm-index/` directory you can find references for the technical machine (TM) and hidden machine (HM) items available in each game, which moves these machines teach, and where they can be found.
 * In the `/typechart/` directory you'll find charts documenting type effectiveness in each game.
 
 ## Generation I
