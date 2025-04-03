@@ -8,6 +8,7 @@ Welcome to the Multidex Project! My goal here is to collect reference data for f
 
 ## Pokemon Red & Blue
 * [Pokedex](/pokedex/red-blue.pokedex.md)
+* [TM/HM Index](/tmindex/red-blue.tmindex)
 
 ### Kanto Expansion Pak
 * [GitHub](https://github.com/PlagueVonKarma/kep-hack) | [PokéCommunity](https://www.pokecommunity.com/threads/kanto-expansion-pak.525646/)

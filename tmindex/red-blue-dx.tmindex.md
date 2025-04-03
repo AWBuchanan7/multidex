@@ -37,7 +37,7 @@
 | TM33 | Reflect        | Normal   | Celadon Mart 2F |
 | TM34 | Ominous Wind   | Ghost    | Lavender Town   |
 | TM35 | Metronome      | Normal   | Viridian City   |
-| TM36 | Selfdestruct   | Normal   | Celadon Mart 2F |
+| TM36 | Self-Destruct  | Normal   | Celadon Mart 2F |
 | TM37 | X-Scissor      | Bug      | Celadon Mart 2F |
 | TM38 | Fire Blast     | Fire     | Indigo Plateau  |
 | TM39 | Swift          | Normal   | Pewter City     |
