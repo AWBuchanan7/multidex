@@ -4,12 +4,6 @@ This repository is formatted for compatibility with [Obsidian](https://obsidian.
 
 You can also view this repository as a website [here](https://awbuchanan7.github.io/multidex/).
 
-## Overview of the Multidex
-
-* In `/pokedex/` you'll find references with data on the Pokémon available in each game including their Pokédex number, learnset, and where that Pokémon can be found.
-* In `/tm-index/` you'll find references for the technical machine (TM) and hidden machine (HM) items available in each game, which moves these machines teach, and where they can be found.
-* In `/typechart/` you'll find charts documenting type effectiveness in each game.
-
 ## Generation I
 
 ### Pokémon Red & Blue
@@ -18,7 +12,7 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 * [TM/HM Index](/tmindex/red-blue.tmindex.md)
 
 ### Pokémon Yellow
-* [Kanto Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps-kanto)
+* WIP
 
 ## Generation I ROM Hacks
 
@@ -53,6 +47,8 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 
 ### Polished Crystal Version
 | [GitHub](https://github.com/Rangi42/polishedcrystal) | [PokéCommunity](https://www.pokecommunity.com/threads/pok%C3%A9mon-polished-crystal-update-3-1-1.373172/) |
+* WIP
 
 ### Sour Crystal Version
 | [GitHub](https://github.com/SoupPotato/Sourcrystal) | [PokéCommunity](https://www.pokecommunity.com/threads/pokemon-sour-crystal-improvement-hack.434361/) |
+* WIP
