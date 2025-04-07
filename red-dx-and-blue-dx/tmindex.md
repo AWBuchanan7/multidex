@@ -1,4 +1,4 @@
-# Red DX & Blue DX TM/HM Index
+# Red DX and Blue DX TM/HM Index
 
 | #    | Move           | Type     | Location(s)                        |
 | ---- | -------------- | -------- | ---------------------------------- |
