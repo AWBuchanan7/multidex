@@ -7,32 +7,32 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 ## Generation I
 
 ### Pokémon Red & Blue
-* [Kanto Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps-kanto)
+* [Kanto Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps/kanto)
 * [Pokédex](red-and-blue/pokedex.md)
 * [TM/HM Index](red-and-blue/tmindex.md)
 
 ### Pokémon Yellow
-* [Kanto Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps-kanto)
+* [Kanto Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps/kanto)
 * WIP
 
 ## Generation I ROM Hacks
 
 ### Kanto Expansion Pak
 | [GitHub](https://github.com/PlagueVonKarma/kep-hack) | [PokéCommunity](https://www.pokecommunity.com/threads/kanto-expansion-pak.525646/) |
-* [Kanto Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps-kanto)
+* [Kanto Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps/kanto)
 * [Pokédex](kanto-expansion-pak/pokedex.md)
 * [TM/HM Index](kanto-expansion-pak/tmindex.md)
 * [Type Chart](kanto-expansion-pak/typechart.md)
 
 ### Red DX & Blue DX
 | [GitHub](https://github.com/TheScarletSword/pokereddeluxe) | [PokéCommunity](https://www.pokecommunity.com/threads/pokemon-red-and-blue-deluxe.360339/) |
-* [Kanto Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps-kanto)
+* [Kanto Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps/kanto)
 * [Pokédex](red-dx-and-blue-dx/pokedex.md)
 * [TM/HM Index](red-dx-and-blue-dx/tmindex.md)
 
 ### Shin Red, Shin Blue, and Shin Green
 | [GitHub](https://github.com/jojobear13/shinpokered) | [PokéCommunity](https://www.pokecommunity.com/threads/shin-pokemon-red-blue-green-jp-builds-bugfix-ai-and-qol-patch.427398/) |
-* [Kanto Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps-kanto)
+* [Kanto Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps/kanto)
 * [Pokédex](red-and-blue/pokedex.md)
 * [TM/HM Index](red-and-blue/tmindex.md)
 
