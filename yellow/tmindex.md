@@ -1,6 +1,6 @@
-# Red & Blue TM/HM Index
+# Yellow TM/HM Index
 
-| #    | Move           | Type     | Location(s)                                       |
+| #    | Move          | Type     | Location(s)                                       |
 | ---- | ------------- | -------- | ------------------------------------------------- |
 | TM01 | Mega Punch    | Normal   | Mt. Moon, Celadon City Department Store           |
 | TM02 | Razor Wind    | Normal   | Rocket Hideout, Celadon City Department Store     |
