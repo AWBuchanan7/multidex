@@ -12,7 +12,9 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 * [TM/HM Index](red-and-blue/tmindex.md)
 
 ### Pokémon Yellow
-* WIP
+* [Red & Blue Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps/red-and-blue)
+* [Pokédex](yellow/pokedex.md)
+* [TM/HM Index](yellow/tmindex.md)
 
 ## Generation I ROM Hacks
 
