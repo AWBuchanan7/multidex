@@ -1,8 +1,10 @@
-Welcome to the Multidex Project! My goal is to collect info for first and second gen Pokémon games and ROM hacks in a simple MarkDown format.
+# Multidex Project
+
+Welcome to the Multidex Project! My goal is to collect info for first and second generation Pokémon games and ROM hacks in a simple MarkDown format.
 
 This repository is formatted for compatibility with [Obsidian](https://obsidian.md/). You can download this repository and open it with Obsidian and you'll have a comprehensive, offline Pokémon ROM hack guidebook! Of course, you can also browse these files here on GitHub.
 
-You can also view this repository as a website [here](https://awbuchanan7.github.io/multidex/).
+Finally, you can also view this repository as a website [here](https://awbuchanan7.github.io/multidex/).
 
 ## Generation I
 
