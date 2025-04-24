@@ -17,6 +17,14 @@ table, th, td {
     border: 1px solid;
 }
 
+table {
+    width: 96%;
+}
+
+th {
+    background-color: #586e75;
+}
+
 tr:nth-child(even) {
     background-color: #fdf6e3;
 }
