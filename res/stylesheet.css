@@ -17,6 +17,10 @@ table, th, td {
     border: 1px solid;
 }
 
+p {
+    width: 96%;
+}
+
 table {
     width: 96%;
 }
