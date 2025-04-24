@@ -11,3 +11,7 @@
 body {
     font-family: 'Pokemon GB';
 }
+
+table, th, td {
+    border: 1px solid;
+  }
