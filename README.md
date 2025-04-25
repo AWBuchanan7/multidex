@@ -9,14 +9,14 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 ## Generation I
 
 ### Pokémon Red & Blue
-* [Red & Blue Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps/red-and-blue)
+* [Red & Blue Maps](red-and-blue/maps.md)
 
 * [Red & Blue Pokédex](red-and-blue/pokedex.md)
 
 * [Red & Blue TM/HM Index](red-and-blue/tmindex.md)
 
 ### Pokémon Yellow
-* [Red & Blue Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps/red-and-blue)
+* [Red & Blue Maps](red-and-blue/maps.md)
 
 * [Yellow Pokédex](yellow/pokedex.md)
 
@@ -24,9 +24,7 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 
 ### Kanto Expansion Pak
 | [GitHub](https://github.com/PlagueVonKarma/kep-hack) | [PokéCommunity](https://www.pokecommunity.com/threads/kanto-expansion-pak.525646/) |
-* [Red & Blue Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps/red-and-blue)
-
-* [Kanto Expansion Pak Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps/kanto-expansion-pak)
+* [Kanto Expansion Pak Maps](kanto-expansion-pak/maps.md)
 
 * [Pokédex](kanto-expansion-pak/pokedex.md)
 
@@ -36,7 +34,7 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 
 ### Red DX & Blue DX
 | [GitHub](https://github.com/TheScarletSword/pokereddeluxe) | [PokéCommunity](https://www.pokecommunity.com/threads/pokemon-red-and-blue-deluxe.360339/) |
-* [Red & Blue Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps/red-and-blue)
+* [Red & Blue Maps](red-and-blue/maps.md)
 
 * [Pokédex](red-dx-and-blue-dx/pokedex.md)
 
@@ -45,7 +43,7 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 ### Shin Red, Shin Blue, and Shin Green
 | [GitHub](https://github.com/jojobear13/shinpokered) | [PokéCommunity](https://www.pokecommunity.com/threads/shin-pokemon-red-blue-green-jp-builds-bugfix-ai-and-qol-patch.427398/) |
 
-* [Red & Blue Maps](https://github.com/AWBuchanan7/multidex/tree/main/maps/red-and-blue)
+* [Red & Blue Maps](red-and-blue/maps.md)
 
 * [Red & Blue Pokédex](red-and-blue/pokedex.md)
 
