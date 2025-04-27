@@ -15,12 +15,16 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 
 * [Red & Blue TM/HM Index](red-and-blue/tmindex.md)
 
+* [Red & Blue Type Chart](red-and-blue/typechart.md)
+
 ### Pokémon Yellow
 * [Red & Blue Maps](red-and-blue/maps.md)
 
 * [Yellow Pokédex](yellow/pokedex.md)
 
 * [Red & Blue TM/HM Index](yellow/tmindex.md)
+
+* [Red & Blue Type Chart](red-and-blue/typechart.md)
 
 ### Kanto Expansion Pak
 | [GitHub](https://github.com/PlagueVonKarma/kep-hack) | [PokéCommunity](https://www.pokecommunity.com/threads/kanto-expansion-pak.525646/) |
@@ -48,6 +52,8 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 * [Red & Blue Pokédex](red-and-blue/pokedex.md)
 
 * [Red & Blue TM/HM Index](red-and-blue/tmindex.md)
+
+* [Red & Blue Type Chart](red-and-blue/typechart.md)
 
 ## Generation II
 

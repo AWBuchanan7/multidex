@@ -1,3 +1,4 @@
+# Kanto Expansion Pak Type Chart
 
 |              | Bug    |   Dragon   |   Electric   |   Fighting   |   Fire   |   Flying   |   Ghost   |   Grass   |   Ground   |   Ice   |   Normal   |   Poison   |   Psychic   |   Rock   |   Water   |   Steel   |   Dark   |   Fairy   |
 | ------------ | ------ | ---------- | ------------ | ------------ | -------- | ---------- | --------- | --------- | ---------- | ------- | ---------- | ---------- | ----------- | -------- | --------- | --------- | -------- | --------- |
