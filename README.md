@@ -8,25 +8,12 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 
 ## Generation I
 
-### Pokémon Red & Blue
-
-* [Red & Blue Maps](red-blue/maps.md)
-
-* [Red & Blue Pokédex](red-blue/pokedex.md)
-
-* [Red & Blue TM/HM Index](red-blue/tmindex.md)
-
-* [Red & Blue Type Chart](red-blue/typechart.md)
-
-### Pokémon Yellow
-
-* [Red & Blue Maps](red-blue/maps.md)
-
-* [Yellow Pokédex](yellow/pokedex.md)
-
-* [Red & Blue TM/HM Index](yellow/tmindex.md)
-
-* [Red & Blue Type Chart](red-blue/typechart.md)
+| Red & Blue                              | Yellow |
+|-----------------------------------------|--------|
+| [Pokédex](red-blue/pokedex.md)      | [Pokédex](yellow/pokedex.md) |
+| [TM/HM Index](red-blue/tmindex.md)  | -- |
+| [Maps](red-blue/maps.md)            | -- |
+| [Type Chart](red-blue/typechart.md) | -- |
 
 ### Kanto Expansion Pak
 
@@ -64,11 +51,13 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 
 ## Generation II
 
-### Pokémon Gold & Silver
-
-* [Daily Events](gold-silver/daily-events.md)
-
-* WIP
+| Gold & Silver                      | Crystal |
+|------------------------------------|---------|
+| Pokédex (WIP)      | Pokédex (WIP) |
+| TM/HM Index (WIP)  | -- |
+| [Daily Events](gold-silver/daily-events.md) | -- |
+| Maps (WIP)            | -- |
+| Type Chart (WIP) | -- |
 
 ### Pokémon Crystal
 
