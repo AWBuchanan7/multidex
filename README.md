@@ -31,6 +31,7 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 ### Kanto Expansion Pak
 
 | [GitHub](https://github.com/PlagueVonKarma/kep-hack) | [PokéCommunity](https://www.pokecommunity.com/threads/kanto-expansion-pak.525646/) |
+
 * [Kanto Expansion Pak Maps](kanto-expansion-pak/maps.md)
 
 * [Pokédex](kanto-expansion-pak/pokedex.md)
@@ -42,6 +43,7 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 ### Red DX & Blue DX
 
 | [GitHub](https://github.com/TheScarletSword/pokereddeluxe) | [PokéCommunity](https://www.pokecommunity.com/threads/pokemon-red-blue-deluxe.360339/) |
+
 * [Red & Blue Maps](red-blue/maps.md)
 
 * [Pokédex](red-dx-blue-dx/pokedex.md)
@@ -65,6 +67,7 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 ### Pokémon Gold & Silver
 
 * [Daily Events](gold-silver/daily-events.md)
+
 * WIP
 
 ### Pokémon Crystal
