@@ -1,8 +1,8 @@
-# Kanto Expansion Pak Maps
+# Red & Blue Maps
 
 ## Mt Moon
 
-![mt-moon](../maps/kanto-expansion-pak/mt-moon.png)
+![mt-moon](../maps/red-blue/mt-moon.png)
 
 ## Rock Tunnel
 
