@@ -6,6 +6,8 @@ Welcome to the Multidex Project! My goal is to collect info for first and second
 
 You can also view this repository as a website [here](https://awbuchanan7.github.io/multidex/).
 
+View the game directory index [here](game-directory.md).
+
 ## Generation I
 
 | Red & Blue                              | Yellow |
@@ -17,7 +19,9 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 
 ### Kanto Expansion Pak
 
-| [GitHub](https://github.com/PlagueVonKarma/kep-hack) | [PokéCommunity](https://www.pokecommunity.com/threads/kanto-expansion-pak.525646/) |
+* View on [GitHub](https://github.com/PlagueVonKarma/kep-hack)
+
+* View on [PokéCommunity](https://www.pokecommunity.com/threads/kanto-expansion-pak.525646/)
 
 * [Kanto Expansion Pak Maps](kanto-expansion-pak/maps.md)
 
@@ -29,7 +33,9 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 
 ### Red DX & Blue DX
 
-| [GitHub](https://github.com/TheScarletSword/pokereddeluxe) | [PokéCommunity](https://www.pokecommunity.com/threads/pokemon-red-blue-deluxe.360339/) |
+* View on [GitHub](https://github.com/TheScarletSword/pokereddeluxe)
+
+* View on [PokéCommunity](https://www.pokecommunity.com/threads/pokemon-red-blue-deluxe.360339/)
 
 * [Red & Blue Maps](red-blue/maps.md)
 
@@ -39,7 +45,9 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 
 ### Shin Red, Shin Blue, and Shin Green
 
-| [GitHub](https://github.com/jojobear13/shinpokered) | [PokéCommunity](https://www.pokecommunity.com/threads/shin-pokemon-red-blue-green-jp-builds-bugfix-ai-and-qol-patch.427398/) |
+* View on [GitHub](https://github.com/jojobear13/shinpokered)
+
+* View on [PokéCommunity](https://www.pokecommunity.com/threads/shin-pokemon-red-blue-green-jp-builds-bugfix-ai-and-qol-patch.427398/)
 
 * [Red & Blue Maps](red-blue/maps.md)
 
@@ -54,7 +62,7 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 | Gold & Silver                      | Crystal |
 |------------------------------------|---------|
 | Pokédex (WIP)      | Pokédex (WIP) |
-| TM/HM Index (WIP)  | -- |
+| [TM/HM Index](gold-silver/tm-index.md)  | -- |
 | [Daily Events](gold-silver/daily-events.md) | -- |
 | Maps (WIP)            | -- |
 | Type Chart (WIP) | -- |
@@ -65,12 +73,16 @@ You can also view this repository as a website [here](https://awbuchanan7.github
 
 ### Polished Crystal Version
 
-| [GitHub](https://github.com/Rangi42/polishedcrystal) | [PokéCommunity](https://www.pokecommunity.com/threads/pok%C3%A9mon-polished-crystal-update-3-1-1.373172/) |
+* View on [GitHub](https://github.com/Rangi42/polishedcrystal)
+
+* View on [PokéCommunity](https://www.pokecommunity.com/threads/pok%C3%A9mon-polished-crystal-update-3-1-1.373172/)
 
 * WIP
 
 ### Sour Crystal Version
 
-| [GitHub](https://github.com/SoupPotato/Sourcrystal) | [PokéCommunity](https://www.pokecommunity.com/threads/pokemon-sour-crystal-improvement-hack.434361/) |
+* View on [GitHub](https://github.com/SoupPotato/Sourcrystal)
+
+* View on [PokéCommunity](https://www.pokecommunity.com/threads/pokemon-sour-crystal-improvement-hack.434361/) |
 
 * WIP
